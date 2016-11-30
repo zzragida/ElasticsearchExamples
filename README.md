@@ -1,0 +1,2 @@
+# ElasticsearchExamples
+Examples for Elasticsearch
